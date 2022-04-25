@@ -4,5 +4,6 @@ public class Tes {
         System.out.println("nihao");
         System.out.println("nihao");
         System.out.println("nihao");
+        System.out.println("master");
     }
 }
